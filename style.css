@@ -1,0 +1,69 @@
+h1{
+    background-color: aqua;
+    color: purple;
+    border: 2px solid red  ;
+    border-radius: 20px ;
+    text-align: center;
+}
+
+.s1{
+    color: red ;
+}
+
+h3{
+    color: green;
+}
+
+h2{
+    background-color: yellow;
+    color: blue;
+    text-align: center;
+}
+
+.s2{
+    background-color: yellow;
+    color: blue;
+    text-align: center;
+}
+
+.p1{
+    color: green;
+}
+
+.s3{
+    background-color: yellow;
+    color: blue;
+    text-align: center; 
+}
+.i1{
+    width: 1200px;
+    height: 30px;
+}
+
+.m1{
+    color: green;
+}
+
+.b1{
+ background-color: rgb(102, 175, 248);
+ color: white;
+}
+.hayvon{
+    background-color: green;
+    color: white;
+}
+
+.blue{
+    background-color: blue;
+    color: white;
+}
+
+.qizil{
+    background-color: red;
+    color: white;
+}
+.qora{
+    background-color: black;
+    color: white;
+}
+
